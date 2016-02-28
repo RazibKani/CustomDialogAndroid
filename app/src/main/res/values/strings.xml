@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="email">admin@gmail.com</string>
+    <string name="message">Pendaftaran Anda sedang kami proses, silahkan menunggu pemberitahuan
+        selanjutnya</string>
+    <string name="click_me">Tampilkan Dialog</string>
+</resources>
